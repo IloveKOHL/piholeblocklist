@@ -97,3 +97,14 @@ Default
 https://tspprs.com/dl/crypto		
 Default
 https://tspprs.com/dl/tracking
+https://tspprs.com/dl/spotify		
+Default
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Game.txt		
+Default
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS		
+Default
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt		
+Default
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt		
+Default
+https://jasonhill.co.uk/pfsense/ytadblock.txt
